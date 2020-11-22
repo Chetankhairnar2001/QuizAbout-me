@@ -1,4 +1,4 @@
-# CLI ON QUIZABOUTME
+# QuizAboutME CLI
 
 This a application made by me to play and learn more about me Using JAVASCRIPT
 
