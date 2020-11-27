@@ -2,7 +2,7 @@
 
 This a application made by me to play and learn more about me Using JAVASCRIPT
 
-TECHNOLOGIES USED:
+## TECHNOLOGIES USED:
 
 1. JAVASCRIPT
 1. repl
